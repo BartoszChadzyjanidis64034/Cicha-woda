@@ -1,5 +1,5 @@
 # Cicha-woda
-Projekt zespołowy
+Projekt zespołowy - Aplikacja ToDo list z panelem rejestracyjnym oraz panelem logowania
 
 Projekt został stworozny przy wykorzystaniu HTML, CSS, PHP oraz bazy danych MySQL.
 Projekt stworzono i sprawdzano przy użyciu oprogramowania XAMPP.
