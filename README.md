@@ -17,6 +17,7 @@ Dla konkretnego użytkownika, przy rejestracji, na podstawie nazwy użytkownika,
 ![image](https://user-images.githubusercontent.com/62951876/115112500-1adc2080-9f86-11eb-8c43-888d13c69cef.png)
 ![image](https://user-images.githubusercontent.com/62951876/115112512-2596b580-9f86-11eb-8772-7594d7257e38.png)
 ![image](https://user-images.githubusercontent.com/62951876/115112528-36dfc200-9f86-11eb-9344-8c03bd59c0df.png)
+![image](https://user-images.githubusercontent.com/62951876/115112601-8b833d00-9f86-11eb-98d0-4e21cbaa7765.png)
 ![image](https://user-images.githubusercontent.com/62951876/115112543-4959fb80-9f86-11eb-8537-d97998407634.png)
 
 
