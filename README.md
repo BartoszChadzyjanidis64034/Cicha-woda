@@ -10,4 +10,13 @@ Po wykonaniu powyższego kroku pzechodzimy do katalogu XAMPP i znajdujemy folder
 Po pomyślnym zalogowaniu, ukazuje się nam nasz to-do list, do którego każdy z użytkowników, z osobna, może dodawać zadania do zrobienia, do bazy oraz usuwać je, co usunie je z bazy, jeśli któreś z nich zostało zrobione. Po całym procesie, można się wylogować, klikając w opcję "Wyloguj". Przenosi nas to do strony głównej, gdzie możemy się ponownie zalogować, bądź utworzyć nowe konto.
 Dla konkretnego użytkownika, przy rejestracji, na podstawie nazwy użytkownika, tworzona jest tabela, do której możemy dodawać i usuwać z niej zadania. To nam pozwala na to, aby każdy zarejestrowany użytkownik widział tylko i wyłącznie swoje zadania.
 
-![image](https://user-images.githubusercontent.com/62951876/115112391-9be6e800-9f85-11eb-8822-0f8dcbd6e8e8.png)
+![image](https://user-images.githubusercontent.com/62951876/115112423-ce90e080-9f85-11eb-8b35-613c6b564824.png)
+![image](https://user-images.githubusercontent.com/62951876/115112454-ec5e4580-9f85-11eb-8896-95daf3f902f0.png)
+![image](https://user-images.githubusercontent.com/62951876/115112471-fc762500-9f85-11eb-9f81-191368bebab4.png)
+![image](https://user-images.githubusercontent.com/62951876/115112486-0b5cd780-9f86-11eb-8aaf-b3d9d92340bf.png)
+![image](https://user-images.githubusercontent.com/62951876/115112500-1adc2080-9f86-11eb-8c43-888d13c69cef.png)
+![image](https://user-images.githubusercontent.com/62951876/115112512-2596b580-9f86-11eb-8772-7594d7257e38.png)
+![image](https://user-images.githubusercontent.com/62951876/115112528-36dfc200-9f86-11eb-9344-8c03bd59c0df.png)
+![image](https://user-images.githubusercontent.com/62951876/115112543-4959fb80-9f86-11eb-8537-d97998407634.png)
+
+
